@@ -1,0 +1,8 @@
+1518968556067	geckodriver	INFO	geckodriver 0.18.0
+1518968556077	geckodriver	INFO	Listening on 127.0.0.1:51246
+1518968558367	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1518968559864	Marionette	INFO	Enabled via --marionette
+1518968562997	Marionette	INFO	Listening on port 51260
+Unable to read VR Path Registry from C:\Users\santosh.gantayat\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
